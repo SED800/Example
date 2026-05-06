@@ -23,26 +23,3 @@ In addition, the repository demonstrates how to effectively organize and manage 
 
 Overall, this repository is intended to help teams understand how to collaborate efficiently, maintain clear project structure, and follow professional software development workflows.
 
----
-
-## Contribution Rules
-
-All groups are expected to use version control in a **professional and disciplined manner**.
-
-### Commit Guidelines
-- Each commit should represent **one clear, specific change**.
-- Commit messages must be **meaningful and descriptive**.
-- Avoid:
-  - Multiple small commits for trivial changes
-  - Single commits that bundle unrelated changes
-
-Failure to follow these practices may result in grade deductions.
-
-### Branching and Merging
-Each group must define and document:
-- A clear strategy for merging into the `main` (or production) branch  
-- Expectations for:
-  - Code reviews  
-  - Testing before merging  
-
-These guidelines must be included in the team’s **Working Agreement**.
