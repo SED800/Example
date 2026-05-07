@@ -9,11 +9,11 @@ This changelog follows a simplified version of the principles from [Keep a Chang
 # [Unreleased]
 
 ## Planned
-- Update README.md to remove topics on version control and add a paragraph about what this repository aims to do
+~~- Update README.md to remove topics on version control and add a paragraph about what this repository aims to do~~
 
 ---
 
 # 2026-05-06
 
 ## changed
-- Removed the topics on version control from the README file, as they are now in the working_agreement.md.
+- Removed the topics on version control from the README file, as they are now in the working_agreement.md. [PR #7](https://github.com/SED800/Example/pull/7)
