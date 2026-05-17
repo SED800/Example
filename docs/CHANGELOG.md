@@ -23,4 +23,8 @@ This changelog follows a simplified version of the principles from [Keep a Chang
 
 # 2026-05-07
 ## added
-- Created a proejct_integration.md file describing the Project Integration assignment working_agreement.md. [PR #10](https://github.com/SED800/Example/pull/10)
+- Created a project_integration.md file describing the Project Integration assignment working_agreement.md. [PR #10](https://github.com/SED800/Example/pull/10)
+
+# 2026-05-16
+## added
+- Created a Github action to run a linter to check if the documentation is following a proper Markdown syntax. [PR #13](https://github.com/SED800/Example/pull/13)
