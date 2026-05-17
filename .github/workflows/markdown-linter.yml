@@ -15,4 +15,4 @@ jobs:
 
       - name: Run Markdown linter
         run: |
-          npx markdownlint-cli2 "docs/**/*.md"
+          npx markdownlint-cli2 --config .github/workflows/.markdownlint.json "docs/**/*.md"
