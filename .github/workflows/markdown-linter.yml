@@ -1,0 +1,22 @@
+name: Markdown Lint
+
+on:
+  push:
+    paths:
+      - "docs/**/*.md"
+
+  pull_request:
+    paths:
+      - "docs/**/*.md"
+
+jobs:
+  markdownlint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run Markdown linter
+        run: |
+          npx markdownlint-cli2 "docs/**/*.md"
