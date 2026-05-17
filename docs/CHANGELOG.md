@@ -24,3 +24,7 @@ This changelog follows a simplified version of the principles from [Keep a Chang
 # 2026-05-07
 ## added
 - Created a proejct_integration.md file describing the Project Integration assignment working_agreement.md. [PR #10](https://github.com/SED800/Example/pull/10)
+
+# 2026-05-16
+## added
+- Created a Github Action to add a linter to the Markdown files. [PR #13](https://github.com/SED800/Example/pull/13)
