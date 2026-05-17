@@ -1,9 +1,11 @@
+# Example Repository
+
 ## Team
 
-| Name           | Email                          | Role                      |
-|----------------|--------------------------------|---------------------------|
-| Marcel Jar     | marcel.jar@senecapolytechnic.ca | Instructor (First Half)   |
-| Miguel Watler  | miguel.watler@senecapolytechnic.ca | Instructor (Second Half)  |
+| Name | Email | Role |
+| --- | --- | --- |
+| Marcel Jar | <marcel.jar@senecapolytechnic.ca> | Instructor (First Half) |
+| Miguel Watler | <miguel.watler@senecapolytechnic.ca> | Instructor (Second Half) |
 
 ---
 
@@ -22,4 +24,3 @@ Within this repository, you will find examples of all required project artifacts
 In addition, the repository demonstrates how to effectively organize and manage a project using modern development practices and tools.
 
 Overall, this repository is intended to help teams understand how to collaborate efficiently, maintain clear project structure, and follow professional software development workflows.
-
