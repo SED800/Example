@@ -6,7 +6,7 @@ Students will use GitHub to create and manage documentation, planning artifacts,
 
 This assignment focuses on **Project Integration**, communication, collaboration, and repository organization rather than software implementation itself.
 
-# Deliverables
+## Deliverables
 
 Each group must create and maintain the following artifacts in their GitHub repository.
 
@@ -25,9 +25,9 @@ The file must include a table containing:
 Example:
 
 | Name | Email | Role |
-|------|------|------|
-| Jane Doe | jane.doe@email.com | Backend Developer |
-| John Smith | john.smith@email.com | Frontend Developer |
+| ------ | ------ | ------ |
+| Jane Doe | <jane.doe@email.com> | Backend Developer |
+| John Smith | <john.smith@email.com> | Frontend Developer |
 
 ### Project Description
 
@@ -87,7 +87,6 @@ Suggested filename:
 /docs/WORKING_AGREEMENT.md
 ```
 
-
 ### Minimum Required Sections
 
 The working agreement must contain:
@@ -102,12 +101,10 @@ The working agreement must contain:
     - In-person
     - Zoom
 
-
 #### Communication Expectations
 
 - Expected response time for messages
 - Preferred communication channels
-
 
 #### Accountability Rules
 
@@ -118,6 +115,7 @@ The working agreement must contain:
   - Failure to respond to teammates
 
 Examples may include:
+
 - Extra documentation duties
 - Reduced participation in decisions
 - Reporting concerns to the professor
@@ -190,8 +188,6 @@ Additional implementation details.
 
 Groups must create multiple GitHub Milestones.
 
-### Requirements
-
 - Issues must be assigned to appropriate milestones
 - Milestones should represent meaningful phases or deliverables of the project
 
@@ -203,11 +199,7 @@ Examples:
 
 ## 6. Kanban Board
 
-Groups must create and organize a GitHub Project Board (Kanban board).
-
-### Requirements
-
-Issues must be placed in the appropriate columns.
+Groups must create and organize a GitHub Project Board (Kanban board). With issues being placed in the appropriate columns.
 
 Suggested columns:
 
@@ -220,7 +212,7 @@ The board should reflect the current state of the project work.
 
 ---
 
-# Final PDF Submission
+## Final PDF Submission
 
 After creating all GitHub artifacts, groups must generate a PDF document containing the following items in order:
 
@@ -232,20 +224,20 @@ After creating all GitHub artifacts, groups must generate a PDF document contain
    - The screenshot must clearly show:
       - The issue title
       - The issue body
-       - The assigned milestone (if applicable)
+      - The assigned milestone (if applicable)
 5. Milestones Screenshot (**1.0 marks**)
 6. Kanban Board Screenshot (**1.0 marks**)
 
-# Submission Instructions
+## Submission Instructions
 
 Submit a single PDF document containing all required artifacts and screenshots
 
-# Evaluation Criteria
+## Evaluation Criteria
 
 Each item will be marked from 0% to 100% as per the table below:
 
 | Performance Level | Percentage Range | Description |
-|---|---|---|
+| --- | --- | --- |
 | Exemplary | 100% | The component is fully completed with exceptional quality, professionalism, accuracy, and attention to detail. All requirements are thoroughly addressed. |
 | Proficient | 75% | The component is well completed and meets most requirements with good quality and organization. Minor issues or omissions may be present. |
 | Satisfactory | 50% | The component demonstrates an acceptable level of completion but lacks consistency, detail, clarity, or depth in multiple areas. |
@@ -255,13 +247,13 @@ Each item will be marked from 0% to 100% as per the table below:
 In addition, **3.0 marks** are allocated to presenting this Project Integration at our Scrum meeting. Marks will be allocated as per the table below:
 
 | Performance Level | Percentage Range | Description |
-|---|---|---|
+| --- | --- | --- |
 | Exemplary | 100% | The presentation is exceptionally clear, professional, and well organized. The speaker demonstrates strong mastery of the subject matter, communicates ideas confidently, and answers questions accurately and thoughtfully. Visual aids and explanations significantly enhance understanding. |
 | Proficient | 75% | The presentation is clear and organized, with good understanding of the topic demonstrated throughout. Most questions are answered correctly and with reasonable detail. Minor issues with clarity, pacing, confidence, or depth may be present. |
 | Satisfactory | 50% | The presentation communicates the basic ideas of the topic but lacks clarity, organization, confidence, or sufficient detail in multiple areas. Responses to questions demonstrate only partial understanding of the material. |
 | Limited / Insufficient | 25% | The presentation is poorly prepared, unclear, incomplete, or difficult to follow. The speaker demonstrates limited understanding of the material and is unable to adequately answer questions related to the topic. |
 
-# Important Notes
+## Important Notes
 
 - All Markdown files must render correctly on GitHub
 - Use proper Markdown formatting throughout
