@@ -6,9 +6,10 @@ This changelog follows a simplified version of the principles from [Keep a Chang
 
 ---
 
-# [Unreleased]
+## [Unreleased]
 
-## Planned
+### Planned
+
 ~~- Update README.md to remove topics on version control and add a paragraph about what this repository aims to do~~
 
 ~~- Create a Project Integration assignemnt file~~
@@ -17,10 +18,14 @@ This changelog follows a simplified version of the principles from [Keep a Chang
 
 ---
 
-# 2026-05-06
-## changed
+## 2026-05-06
+
+### changed
+
 - Removed the topics on version control from the README file, as they are now in the working_agreement.md. [PR #7](https://github.com/SED800/Example/pull/7)
 
-# 2026-05-07
-## added
+## 2026-05-07
+
+### added
+
 - Created a proejct_integration.md file describing the Project Integration assignment working_agreement.md. [PR #10](https://github.com/SED800/Example/pull/10)
