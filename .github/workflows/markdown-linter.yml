@@ -14,5 +14,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run Markdown linter
-        run: |
-          npx markdownlint-cli2 --config .github/workflows/.markdownlint.json "docs/**/*.md"
+        run: npx markdownlint-cli2 --config .github/workflows/.markdownlint.json "docs/**/*.md"
