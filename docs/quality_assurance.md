@@ -44,7 +44,6 @@ Suggested filename:
 /docs/QA.md
 ```
 
-
 ## Required Sections
 
 The document must contain the following sections.
@@ -66,11 +65,9 @@ Examples:
 - Security vulnerabilities
 - API failures
 
-
 ### B. Planned Types of Testing
 
 Students must explain how they plan to use multiple forms of testing.
-
 
 #### Unit Testing
 
@@ -79,7 +76,6 @@ Explain:
 - What components/functions will be unit tested
 - Which testing framework will be used (examples: Jest, PyTest, etc.)
 - Expected minimum coverage goals
-
 
 #### Integration Testing
 
@@ -93,7 +89,6 @@ Examples:
 - Authentication + Database
 - Backend + AI APIs
 - Frontend + Backend communication
-
 
 #### End-to-End (E2E) Testing
 
@@ -115,7 +110,6 @@ Describe:
 - What types of testing will still require manual verification
 - How usability testing or visual verification will be performed
 
-
 #### Performance / Load Testing
 
 Explain:
@@ -128,7 +122,6 @@ Examples:
 - AI API latency
 - Database performance
 - High traffic scenarios
-
 
 #### Security Testing
 
@@ -143,7 +136,6 @@ Examples:
 - Rate limiting
 - API key exposure
 - Insecure user input handling
-
 
 ## C. Pull Request Quality Rules
 
@@ -189,7 +181,6 @@ Examples:
 ```yaml
 npm install
 ```
-
 or
 
 ```yaml
@@ -205,18 +196,15 @@ Examples:
 ```yaml
 npm test
 ```
-
 or
 
 ```yaml
 pytest
 ```
 
-
 #### Linting or Static Analysis
 
 Students must configure at least one quality verification tool.  (examples: ESLint, Pylint, Prettier, Markdownlint, etc.)
-
 
 ### Required Repository Structure
 
@@ -313,7 +301,6 @@ Each item will be evaluated using the following performance levels:
 | Satisfactory | 50% | The component demonstrates partial understanding but lacks detail, depth, consistency, or completeness in multiple areas. |
 | Limited | 25% | The component is incomplete, poorly organized, or demonstrates minimal effort or understanding. |
 | Not Submitted | 0% | The component was not submitted or does not provide sufficient evidence of completion. |
-
 
 In addition, **3.0 marks** are allocated to presenting this Project Integration at our Scrum meeting. Marks will be allocated as per the table below:
 
