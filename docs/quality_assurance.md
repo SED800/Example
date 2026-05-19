@@ -181,6 +181,7 @@ Examples:
 ```yaml
 npm install
 ```
+
 or
 
 ```yaml
@@ -196,6 +197,7 @@ Examples:
 ```yaml
 npm test
 ```
+
 or
 
 ```yaml
@@ -310,9 +312,10 @@ In addition, **3.0 marks** are allocated to presenting this Project Integration 
 | Proficient | 75% | The presentation is clear and organized, with good understanding of the topic demonstrated throughout. Most questions are answered correctly and with reasonable detail. Minor issues with clarity, pacing, confidence, or depth may be present. |
 | Satisfactory | 50% | The presentation communicates the basic ideas of the topic but lacks clarity, organization, confidence, or sufficient detail in multiple areas. Responses to questions demonstrate only partial understanding of the material. |
 | Limited / Insufficient | 25% | The presentation is poorly prepared, unclear, incomplete, or difficult to follow. The speaker demonstrates limited understanding of the material and is unable to adequately answer questions related to the topic. |
+
 ---
 
-# Important Notes
+## Important Notes
 
 - All Markdown files must render correctly on GitHub
 - CI/CD workflows must execute successfully
