@@ -231,7 +231,7 @@ If disagreements occur:
 
 1. Discuss the issue respectfully as a team
 2. Attempt to reach consensus
-3. Escalate unresolved issues to the instructor/project supervisor if necessary
+3. Escalate unresolved issues to the instructor if necessary
 
 ---
 
