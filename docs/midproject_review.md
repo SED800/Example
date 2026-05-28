@@ -203,7 +203,7 @@ Note that only the first component is group based. All other components will be 
 | Proficient        | 75%              | Issues are well written and demonstrate good communication with the research advisor. Most issues are actionable and technically relevant, with only minor omissions or lack of detail.                                 |
 | Satisfactory      | 50%              | Issues demonstrate partial planning and communication with the research advisor but lack sufficient detail, clarity, organization, or technical depth in multiple areas.                                                |
 | Limited           | 25%              | Issues are incomplete, unclear, poorly organized, minimally actionable, or demonstrate limited engagement with the research advisor discussion.                                                                         |
-| Not Submitted     | 0%               | Issues were not submitted or insufficient evidence of advisor discussion and planning was provided.                                                                           |
+| Not Submitted     | 0%               | Issues were not submitted or insufficient evidence of advisor discussion and planning was provided.                                                                                                            |
 
 ### Implementation and Testing  (10 Marks)
 
