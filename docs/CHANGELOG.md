@@ -35,3 +35,4 @@ This changelog follows a simplified version of the principles from [Keep a Chang
 ### added
 
 - Added a linter to check Markdown syntax prior to accepting a PR. [PR #19](https://github.com/SED800/Example/pull/19)
+- Showed students how the linter works
