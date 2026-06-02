@@ -30,6 +30,9 @@ This changelog follows a simplified version of the principles from [Keep a Chang
 
 - Created a proejct_integration.md file describing the Project Integration assignment working_agreement.md. [PR #10](https://github.com/SED800/Example/pull/10)
 
+# Extra Title
+No skipping line
+
 ## 2026-05-17
 
 ### added
