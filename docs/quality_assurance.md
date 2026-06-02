@@ -69,6 +69,13 @@ Examples:
 
 Students must explain how they plan to use multiple forms of testing.
 
+#### Smoke Testing
+
+Describe:
+
+- What types of testing will still require manual verification
+- How usability testing or visual verification will be performed
+
 #### Unit Testing
 
 Explain:
@@ -102,13 +109,6 @@ Examples:
 - Login
 - Checkout/payment process
 - AI prompt submission workflow
-
-#### Manual Testing
-
-Describe:
-
-- What types of testing will still require manual verification
-- How usability testing or visual verification will be performed
 
 #### Performance / Load Testing
 
@@ -277,7 +277,7 @@ Examples:
 
 After completing the workshop, groups must generate a PDF document containing the following items in order:
 
-1. Testing Strategy Document (**4.0 marks**)
+1. Testing Strategy Document - `QA.md` (**4.0 marks**)
 2. GitHub Actions Workflow File (**3.0 marks**)
 3. Screenshots of Successful CI/CD Runs (**1.0 marks**)
 4. Testing-Related GitHub Issues (**2.0 marks**)
